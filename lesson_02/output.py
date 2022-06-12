@@ -1,0 +1,5 @@
+print('Hello World!')
+print('Hello World!', 'Hello World!', 'Hello World!', 456, 5.4)
+print('Hello World!')
+print('Hello World!')
+print('Площадь квадрата: ', 564)

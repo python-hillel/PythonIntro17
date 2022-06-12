@@ -1,0 +1,6 @@
+res = input('Введите число (1-100): ')
+print(res, type(res))
+# a = int(res)
+# print(a, type(a))
+b = float(res)
+print(b, type(b))
